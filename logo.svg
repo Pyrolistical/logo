@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 512 512"
+  xmlns="http://www.w3.org/2000/svg">
+  <path transform="rotate(45 256 256)" d="m256 480a224 224 270 1 1 224-224" fill="none" stroke="#f00" stroke-linecap="round" stroke-width="64"/>
+  <path d="m256 346a92 92-270 1 0-92-92v206" fill="none" stroke="#f00" stroke-linecap="round" stroke-width="64"/>
+</svg>
